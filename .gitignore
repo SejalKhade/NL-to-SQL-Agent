@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/analytics.duckdb
+data/chroma_store/
+.streamlit/secrets.toml
+*.egg-info/
+.pytest_cache/
